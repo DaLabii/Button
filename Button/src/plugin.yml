@@ -1,0 +1,8 @@
+name: Button
+main: dalabi.button.Main
+author: DaLabi
+version: 1.0.0
+description: Used to enable a button remotely;
+commands:
+    fire:
+      description: Fire a button.

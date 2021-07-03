@@ -1,0 +1,9 @@
+Messages:
+  Button_Pressed: '&fButton Pressed &7(&8X: %x% Y: %y% Z: %z%&7)'
+  Nothing_Found: '&cNo Button Found!'
+  No_Command_Permission: '&cYou don''t have permission to execute this command!'
+  Config_Reloaded: '&aConfig Reloaded'
+  Invalid_Arguments: '&cInvalid command arguments'
+Permissions:
+  Command: 'fire.allowed'
+  Reload: 'fire.reload'
